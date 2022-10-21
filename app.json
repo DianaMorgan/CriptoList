@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Crypto",
+    "slug": "crypto",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#29303A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "crypto",
+      "buildNumber": "7"
+    },
+    "android": {
+      "package": "crypto",
+      "versionCode": 5,
+      "adaptiveIcon": {
+        "backgroundColor": "#29303A"
+      }
+    }
+  }
+}
